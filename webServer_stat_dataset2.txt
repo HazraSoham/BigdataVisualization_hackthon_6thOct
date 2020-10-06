@@ -1,0 +1,52 @@
+25-11-2017|14:45|Application Alpha usage-87 failure for @ApplicationIdNETF01  status:Failu*e|US|106
+18-11-2017|22:44|  @ApplicationIdAPRI01 usage-29  failure for  status:Success|UK|113
+11-11-2017|13:40|  @ApplicationIdHOTS01 usage-63  failure for  status:Failu*e|IN|106
+20-11-2017|20:13|  @ApplicationIdNETF01 usage-20  failure for  status:Success|US|118
+14-11-2017|23:39|Application Alpha usage-94 failure for @ApplicationIdNETF01  status:Success|US|106
+22-11-2017|19:18|  @ApplicationIdHOTS01 usage-97  failure for  status:Failure|IN|118
+12-11-2017|21:40|Application Alpha usage-49 failure for @ApplicationIdNETF01  status:Success|US|106
+16-11-2017|18:15|  @ApplicationIdNETF01 usage-82  failure for  status:Success|US|118
+23-11-2017|18:41|Application Alpha usage-33 failure for @ApplicationIdHOTS01  status:Failu*e|IN|100
+25-11-2017|17:50|  @ApplicationIdAPRI01 usage-51  failure for  status:Failure|UK|112
+19-11-2017|19:25|Application Alpha usage-54 failure for @ApplicationIdHOTS01  status:Suc*es*|IN|107
+12-11-2017|17:21|Application Alpha usage-98 failure for @ApplicationIdHOTS01  status:Success|IN|112
+17-11-2017|18:30|  @ApplicationIdHOTS01 usage-38  failure for  status:Success|IN|116
+13-11-2017|13:44|Application Alpha usage-25 failure for @ApplicationIdAPRI01  status:Failure|UK|106
+24-11-2017|19:12|  @ApplicationIdHOTS01 usage-38  failure for  status:Success|IN|117
+10-11-2017|23:45|Application Alpha usage-41 failure for @ApplicationIdAPRI01  status:Success|UK|113
+13-11-2017|20:19|  @ApplicationIdNETF01 usage-25  failure for  status:Success|US|116
+16-11-2017|13:14|Application Alpha usage-85 failure for @ApplicationIdAPRI01  status:Failure|UK|102
+25-11-2017|16:33|Application Alpha usage-82 failure for @ApplicationIdHOTS01  status:Success|IN|120
+23-11-2017|21:30|Application Alpha usage-56 failure for @ApplicationIdAPRI01  status:Success|UK|112
+16-11-2017|16:36|  @ApplicationIdNETF01 usage-28  failure for  status:Failure|US|102
+20-11-2017|22:49|Application Alpha usage-90 failure for @ApplicationIdAPRI01  status:Suc*es*|UK|106
+16-11-2017|23:36|Application Alpha usage-56 failure for @ApplicationIdNETF01  status:Failure|US|106
+13-11-2017|23:13|Application Alpha usage-83 failure for @ApplicationIdNETF01  status:Failure|US|112
+13-11-2017|18:18|Application Alpha usage-85 failure for @ApplicationIdAPRI01  status:Success|UK|105
+22-11-2017|17:44|Application Alpha usage-33 failure for @ApplicationIdAPRI01  status:Failu*e|UK|116
+11-11-2017|19:48|Application Alpha usage-66 failure for @ApplicationIdAPRI01  status:Failure|UK|106
+11-11-2017|23:18|Application Alpha usage-65 failure for @ApplicationIdNETF01  status:Failu*e|US|110
+19-11-2017|21:22|  @ApplicationIdHOTS01 usage-34  failure for  status:Success|IN|112
+25-11-2017|21:20|  @ApplicationIdAPRI01 usage-60  failure for  status:Success|UK|116
+14-11-2017|22:40|Application Alpha usage-92 failure for @ApplicationIdAPRI01  status:Failure|UK|101
+17-11-2017|23:24|Application Alpha usage-31 failure for @ApplicationIdAPRI01  status:Success|UK|106
+18-11-2017|18:16|  @ApplicationIdNETF01 usage-33  failure for  status:Suc*es*|US|118
+12-11-2017|13:46|Application Alpha usage-41 failure for @ApplicationIdAPRI01  status:Failure|UK|120
+11-11-2017|15:49|  @ApplicationIdNETF01 usage-50  failure for  status:Failure|US|101
+24-11-2017|17:44|  @ApplicationIdHOTS01 usage-69  failure for  status:Failure|IN|112
+21-11-2017|20:19|  @ApplicationIdNETF01 usage-47  failure for  status:Failure|US|111
+16-11-2017|19:22|  @ApplicationIdNETF01 usage-56  failure for  status:Failure|US|117
+13-11-2017|16:17|Application Alpha usage-79 failure for @ApplicationIdHOTS01  status:Failure|IN|109
+13-11-2017|15:26|  @ApplicationIdNETF01 usage-82  failure for  status:Success|US|116
+12-11-2017|21:41|Application Alpha usage-98 failure for @ApplicationIdAPRI01  status:Suc*es*|UK|117
+25-11-2017|12:38|Application Alpha usage-62 failure for @ApplicationIdHOTS01  status:Failu*e|IN|108
+23-11-2017|12:35|Application Alpha usage-83 failure for @ApplicationIdNETF01  status:Failure|US|115
+25-11-2017|21:22|Application Alpha usage-59 failure for @ApplicationIdAPRI01  status:Suc*es*|UK|104
+23-11-2017|14:46|Application Alpha usage-98 failure for @ApplicationIdHOTS01  status:Failure|IN|111
+19-11-2017|22:15|  @ApplicationIdHOTS01 usage-34  failure for  status:Failure|IN|105
+15-11-2017|17:52|Application Alpha usage-62 failure for @ApplicationIdNETF01  status:Success|US|100
+19-11-2017|16:32|  @ApplicationIdHOTS01 usage-26  failure for  status:Success|IN|112
+21-11-2017|23:50|  @ApplicationIdAPRI01 usage-90  failure for  status:Success|UK|108
+22-11-2017|23:43|Application Alpha usage-71 failure for @ApplicationIdNETF01  status:Failure|US|100
+19-11-2017|17:47|Application Alpha usage-42 failure for @ApplicationIdNETF01  status:Failure|US|113
+22-11-2017|20:42|Application Alpha usage-70 failure for @ApplicationIdHOTS01  status:Failure|IN|105
